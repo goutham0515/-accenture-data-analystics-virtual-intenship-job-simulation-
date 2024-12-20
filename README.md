@@ -1,4 +1,4 @@
-# -accenture-data-analystics-virtual-intenship-job-simulation-
+# accenture-data-analystics-virtual-intenship-job-simulation-
 
 There are four tasks we have to complete tha tasks to reach the distination
 
